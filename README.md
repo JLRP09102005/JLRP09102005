@@ -9,7 +9,8 @@ I love learning new things and exploring all kinds of technologies to enhance my
 - REST APIs • Microservices
 
 **Databases**
-- MySQL • MongoDB
+- MySQL • MariaDB
+- MongoDB
 
 **DevOps & Infrastructure**
 - Git • Docker
