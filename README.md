@@ -1,16 +1,28 @@
-## Hi there 👋
+# 💼 TECHNICAL BIO
 
-<!--
-**JLRP09102005/JLRP09102005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 TECHNOLOGIES
+- .NET  
+- VMware  
+- VirtualBox  
+- MySQL  
+- MongoDB  
 
-Here are some ideas to get you started:
+## 💻 PROGRAMMING LANGUAGES
+- JavaScript  
+- C#  
+- C++  
+- HTML  
+- CSS  
+- Bash / Bash Scripting  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ OPERATING SYSTEMS
+- Linux  
+- Windows  
+- Windows Server  
+- Proxmox  
+
+## 🔧 DEVOPS / TOOLS
+- Git  
+
+## 📜 CERTIFICATIONS
+- (No certifications yet — section reserved for future additions)
